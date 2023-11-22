@@ -1,7 +1,7 @@
 
 
 
-Nome do App: 📦 Gerenciador de Estoque Simples 📱
+                                   Nome do App: 📦 Gerenciador de Estoque Simples GMEstoque_Simples📱
 
 Descrição:
 Este aplicativo é um gerenciador de estoque que permite ao usuário adicionar, visualizar, editar e excluir itens do estoque. Ele utiliza a biblioteca Room para armazenar os dados localmente no dispositivo. 📝
@@ -9,13 +9,21 @@ Este aplicativo é um gerenciador de estoque que permite ao usuário adicionar, 
 Funcionalidades:
 
 Adicionar Item: ➕ Permite ao usuário adicionar um novo item ao estoque com nome, quantidade e detalhes.
+
 Visualizar Itens: 👀 Lista todos os itens presentes no estoque.
+
 Editar Item: ✏️ Permite ao usuário editar o nome, quantidade ou detalhes de um item existente.
+
 Excluir Item: ❌ Permite ao usuário remover um item do estoque.
-Tecnologias Utilizadas:
+
+
+                                                        Tecnologias Utilizadas
 
 Kotlin: 🧑‍💻 Linguagem de programação principal.
+
 Android Room: 🗄️ Biblioteca de persistência de dados que oferece uma camada de abstração sobre SQLite.
+
+
 Arquitetura MVVM: 🏗️ Utilização do padrão de arquitetura Model-View-ViewModel para separação de responsabilidades.
 Passos Básicos de Implementação:
 
