@@ -1,7 +1,7 @@
 
 
 
-                                   Nome do App: 📦 Gerenciador de Estoque Simples GMEstoque_Simples📱
+                                  Nome do App: 📦 Gerenciador de Estoque Simples GMEstoque_Simples📱
 
 Descrição:
 Este aplicativo é um gerenciador de estoque que permite ao usuário adicionar, visualizar, editar e excluir itens do estoque. Ele utiliza a biblioteca Room para armazenar os dados localmente no dispositivo. 📝
